@@ -62,6 +62,8 @@ If you lose the password associated with the owner account and the steps above d
 - `hassio`
 - `cloud`
 
+This will delete all users and start a new onboarding process, but won't touch the rest of your configuration.
+
 ## Recovering Data for Home Assistant (including Supervised)
 
 Unless your SD card/data is corrupted, you can still get to your files or troubleshoot further.
